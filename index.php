@@ -11,8 +11,13 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>Hello, world!</h1>
-
+    <div class="jumbotron">
+      <h1 class="display-4">Welocome To The TheiaProject!</h1>
+      <p class="lead">Project Theia is now on the planning stage.</p>
+      <hr class="my-4">
+      <p>Stay in Touch with us.</p>
+      <a class="btn btn-primary btn-lg" href="https://github.com/RDPerera/Theia-Project" role="button">Visit GitHub Repo</a>
+    </div>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
