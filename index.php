@@ -10,7 +10,7 @@
 
     <title>Hello, world!</title>
   </head>
-  <body>
+  <body style="background:#e9ecef">
     <div class="jumbotron">
       <h1 class="display-4">Welocome To The TheiaProject!</h1>
       <p class="lead">Project Theia is now on the planning stage.</p>
