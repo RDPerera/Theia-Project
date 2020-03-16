@@ -13,9 +13,8 @@
   <body style="background:#e9ecef">
     <div class="jumbotron">
       <h1 class="display-4">Welocome To The TheiaProject!</h1>
-      <p class="lead">Project Theia is now on the planning stage.</p>
+      <p class="lead">Project Theia is now on the planning stage.Stay in Touch</p>
       <hr class="my-4">
-      <p>Stay in Touch with us.</p>
       <a class="btn btn-primary btn-lg" href="https://github.com/RDPerera/Theia-Project" role="button">Visit GitHub Repo</a>
     </div>
     <!-- Optional JavaScript -->
